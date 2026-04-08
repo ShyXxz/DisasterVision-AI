@@ -1,3 +1,9 @@
+## 🌍 Live Map Output
+
+Download and open: map.html
+
+---
+
 🚨 DisasterVision-AI
 
 An AI-powered disaster response system that analyzes drone and satellite images to detect infrastructure damage and generate real-time actionable maps for emergency teams.
