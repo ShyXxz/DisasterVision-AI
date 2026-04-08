@@ -1,6 +1,11 @@
-## 🌍 Live Map Output
+## 🌍 Output Map
 
-Download and open: map.html
+Download and open `map.html` to view interactive disaster damage map.
+
+### Damage Levels:
+- 🔴 Severe
+- 🟠 Moderate
+- 🟢 Minor
 
 ---
 
